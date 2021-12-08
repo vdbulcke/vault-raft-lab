@@ -1,0 +1,8 @@
+
+## storage dir
+vault1-raft/**
+vault2-raft/**
+vault3-raft/**
+
+## init output
+**/unseal.json 
