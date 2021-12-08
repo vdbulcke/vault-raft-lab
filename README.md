@@ -81,7 +81,7 @@ cd server3/
 
 * enable kv secret backend
 ```
-vault secrets enable kv-v2
+vault secrets enable -path=secret/ kv-v2
 ```
 
 * Write some secret
